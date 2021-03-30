@@ -45,7 +45,7 @@ const About = () => {
                     'Seit meiner Kindheit interessiere ich mich für Informatik, und seit meinem 16. Lebensjahr programmiere ich regelmäßig in meiner Freizeit. Mein Horizont ist hierbei aber nicht begrenzt, denn zusätzlich beschäftige ich mich gerne mit IT-Sicherheit.'}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Mein Fokus im Bereich des Programmierens liegt bei Embedded Programmierung. Hierzu nutze ich hauptsächlich die Sprachen C++, C und Assembly, jedoch verfüge ich auch über gute Kenntnisse in Javascript. Im Folgenden findet Ihr meine aktuellsten Projekte, die ich im Laufe des letzten Jahres abgeschlossen habe. Viel Spaß beim anschauen!'}
+                  {paragraphThree || 'Mein Fokus im Bereich des Programmierens liegt im Backend. Hierzu nutze ich hauptsächlich die Sprachen C++, C und Assembly, jedoch verfüge ich auch über gute Kenntnisse in Javascript. Im Folgenden findet Ihr meine aktuellsten Projekte, die ich im Laufe des letzten Jahres abgeschlossen habe. Viel Spaß beim anschauen!'}
                 </p>
               </div>
             </Fade>
